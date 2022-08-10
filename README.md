@@ -15,5 +15,5 @@ Instructions to run this project:
 
                     OR
 
-   run "java FanSpeed.java" in terminal or command line
+   run "java simplefan.java" in terminal or command line
 
